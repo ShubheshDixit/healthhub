@@ -1,0 +1,95 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4731984,
+                    "lng": 77.5156756
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47446582989272,
+                        "lng": 77.51708737989273
+                    },
+                    "southwest": {
+                        "lat": 28.47176617010728,
+                        "lng": 77.51438772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Eye Health Clinic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101287249869744491186\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECG-E4FYUdM5qWXx9I1sJLGDkCCt7UEeTLKfz24d_iGlUGUx1WBKYPZFpvf5FNBGnlgV2G_4rPKvU04l8bJHLo9rbBIfuTpWkFUCLqrozhJks5959oc1cystiQoC60-07X3Adr8faNZNlByqlLEq4L-A6nblzBKUHx6EQTyr2WgaHSn",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJd7OcOAevJzoRYUU1sjzVwaE",
+            "plus_code": {
+                "compound_code": "FGF8+77 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGF8+77"
+            },
+            "rating": 4.2,
+            "reference": "ChIJd7OcOAevJzoRYUU1sjzVwaE",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 154,
+            "vicinity": "Commercial Belt, Alfa 1, Om Tower 9th Floor, 902, B-5, Alpha-I Commercial Belt, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4825513,
+                    "lng": 77.4988657
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48390677989272,
+                        "lng": 77.50021052989271
+                    },
+                    "southwest": {
+                        "lat": 28.48120712010727,
+                        "lng": 77.49751087010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Iw Eye Clinic",
+            "place_id": "ChIJz65_HWzqDDkRtMc1WjizKnQ",
+            "plus_code": {
+                "compound_code": "FFMX+2G Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFFMX+2G"
+            },
+            "rating": 0,
+            "reference": "ChIJz65_HWzqDDkRtMc1WjizKnQ",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Amritpuram, Block E, Chandila, Gamma 1, Greater Noida"
+        }
+    ],
+    "status": "OK"
+}

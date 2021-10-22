@@ -1,0 +1,239 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4776122,
+                    "lng": 77.5185513
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47901262989272,
+                        "lng": 77.51999027989272
+                    },
+                    "southwest": {
+                        "lat": 28.47631297010728,
+                        "lng": 77.51729062010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Arpita A Gupta | Oncologist",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109305480723265424596\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAUtr_PkQQjlapoTlLOjcZDSZB2LlUlDCcZLVZNGuyW-ZlLUPwkxN0hDQupf67Hv7yyXda0hRxFYb2X0xWGxw9pGXJKw4RNOm4rDkRMNJ0jTPXSoWEGOk610kvbHjs0pBbIPZN2I_h6pm_5HPVcHEeJ6r05RWlijfoTYHeJcGEVfFqU",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJJadf65LrDDkRIflgNbY9rcU",
+            "plus_code": {
+                "compound_code": "FGH9+2C Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGH9+2C"
+            },
+            "rating": 0,
+            "reference": "ChIJJadf65LrDDkRIflgNbY9rcU",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Navin Hospital, NH-3, Pocket F, Sector Alpha II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4517053,
+                    "lng": 77.5100173
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45302697989272,
+                        "lng": 77.51139612989272
+                    },
+                    "southwest": {
+                        "lat": 28.45032732010727,
+                        "lng": 77.50869647010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Arpita A Gupta | Cancer Specialist",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 926,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113129269331101460373\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uED9fikT63TFIYyHQm-8jDWU9dU54COS80vCjnP5n5CLyWXhAWggxILyhmetYXM8C6oWYT2RcHZYmbnSO31Z7F3ST7o_zHsGetXz7atXYA5mwSX6wAXvAmdROAAL6h6_cFFsTlORbJjlSwMVyQlDSW6BSS-VBjLlilmsHUUYfA3wSzI9",
+                    "width": 980
+                }
+            ],
+            "place_id": "ChIJ3evKcqvBDDkRbHSK9V40vmU",
+            "plus_code": {
+                "compound_code": "FG26+M2 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG26+M2"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ3evKcqvBDDkRbHSK9V40vmU",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Yatharth Hospital, Block A, Omega I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4521769,
+                    "lng": 77.4998035
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45349152989272,
+                        "lng": 77.50118762989273
+                    },
+                    "southwest": {
+                        "lat": 28.45079187010728,
+                        "lng": 77.49848797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "DR. SANJAY RAI (SENIOR CONSULTANT-20YRS EXPERIENCE)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 721,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101600568151527446027\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBCRmSJeUkl3fzD7Pfi4xkFd_2Is0tVFVqRLWrmdF3iVbfBMzgzNIXPgTvbnPEigtcs18VbdFkB6gQKS70db_jaE3gQjo-ZU2Hs0-tK3oWTR7atSIua8o_voPsgbio8_UNnJyZlK6kRaUWMBJO815I3JkynDRPgjuYvfMddV65nSe0_",
+                    "width": 721
+                }
+            ],
+            "place_id": "ChIJ______jADDkRzN9Hj6LmXic",
+            "plus_code": {
+                "compound_code": "FF2X+VW Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFF2X+VW"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ______jADDkRzN9Hj6LmXic",
+            "scope": "GOOGLE",
+            "types": [
+                "hospital",
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "9, VARUN ENCLAVE OMEGA 1 SECTOR, near GREATER VALLEY SCHOOL, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4814686,
+                    "lng": 77.5135471
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48289097989272,
+                        "lng": 77.51484317989272
+                    },
+                    "southwest": {
+                        "lat": 28.48019132010728,
+                        "lng": 77.51214352010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Devendra Babbar - Urologist in Greater Noida I Andrologist in Greater Noida I Uro - Oncologist in Greater Noida I Prostate Cancer",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ4dwtchLrDDkRQanpXYaA1Wo",
+            "plus_code": {
+                "compound_code": "FGJ7+HC Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGJ7+HC"
+            },
+            "rating": 5,
+            "reference": "ChIJ4dwtchLrDDkRQanpXYaA1Wo",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "A 307, near beta plaza, Block F, Beta I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4750414,
+                    "lng": 77.5515527
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47644282989272,
+                        "lng": 77.55291667989272
+                    },
+                    "southwest": {
+                        "lat": 28.47374317010728,
+                        "lng": 77.55021702010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr. Atul Sharma",
+            "place_id": "ChIJ____k6jqDDkRRBK5-WgkhRQ",
+            "rating": 0,
+            "reference": "ChIJ____k6jqDDkRRBK5-WgkhRQ",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "P1003, Plumeria Garden Estate, Sector, Omicron III, Greater Noida"
+        }
+    ],
+    "status": "OK"
+}

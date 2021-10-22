@@ -1,0 +1,860 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4494163,
+                    "lng": 77.51917350000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45069452989272,
+                        "lng": 77.52043057989272
+                    },
+                    "southwest": {
+                        "lat": 28.44799487010728,
+                        "lng": 77.51773092010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Anuj Jain (Blessings Clinic)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116560430342185787131\">PP</a>"
+                    ],
+                    "photo_reference": "Aap_uEBN31eV_pQOWY0qvPL2akUCavrGFakITjW73qmTYmi5s10Njw9BZPmNu7GM4Q5QHkkLeuYdyu4oJbFjjASluIHp9P3qN1_RzaE6FEAPvE44r-zhGQI08UjLO9IjAYLQabhTUOz1AizSl0LIMvufHaHXV1vVQCRmE6T1RcGHYXhO4KQP",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJPVXRXzTADDkR6yeTOMEZgLU",
+            "plus_code": {
+                "compound_code": "CGX9+QM Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCGX9+QM"
+            },
+            "rating": 4.2,
+            "reference": "ChIJPVXRXzTADDkR6yeTOMEZgLU",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49,
+            "vicinity": "Poket 3 Block D Rd, Block D, Phi III, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4584973,
+                    "lng": 77.54190080000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45982882989272,
+                        "lng": 77.54326417989272
+                    },
+                    "southwest": {
+                        "lat": 28.45712917010728,
+                        "lng": 77.54056452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr.Jatin Garg (KIDZ & MOMZ CLINIC) - Pediatrician in Greater Noida",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 634,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108433499846117559428\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEC87SzgLPx3gSYnd0ay5cr9UlcKnT1rT-0MXH5kBV1wfOdwfBfqtPnc0nJMZNdfIDSsjki572RI4RGkWzX_ioNuBGTGwzjTNA6T8w8d9_Kr9VSF_5aaBn30-pbr8aR409V43WW1671AiaAjJHTnpfCsCb9iTstqJOmWkjF84gH2-UJ1",
+                    "width": 1125
+                }
+            ],
+            "place_id": "ChIJI5-T9ETrDDkR_1s3NDBzW_4",
+            "plus_code": {
+                "compound_code": "FG5R+9Q Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG5R+9Q"
+            },
+            "rating": 5,
+            "reference": "ChIJI5-T9ETrDDkR_1s3NDBzW_4",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 135,
+            "vicinity": "KIDZ & MOMZ CLINICPlot, 26, Block D, RHO I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4610267,
+                    "lng": 77.5249922
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46232892989272,
+                        "lng": 77.52628592989272
+                    },
+                    "southwest": {
+                        "lat": 28.45962927010727,
+                        "lng": 77.52358627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Nishitosh Niranjan(Greater noida pediatric centre and kilkaari vaccination centre)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 648,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117323102069922076351\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAjTI3eqmjQk5aS-al81nS4bdK2YPKRXkfoyywnIq9QfUaxMft4radsrcuve0k69OMQiqv4T3-BzJnr5e1bJ2a7g2JEcngGUXDWlTk-uNhhc6ibU7RKEqp9qxWNdMAmCfKy_GbYSrofXv8rJuk2s8XnB7-BKTKLNLijleYgXNgonExr",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJsRZ_81HBDDkRJ-atq-PYWPo",
+            "plus_code": {
+                "compound_code": "FG6F+CX Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG6F+CX"
+            },
+            "rating": 4.8,
+            "reference": "ChIJsRZ_81HBDDkRJ-atq-PYWPo",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 44,
+            "vicinity": "SWARN PLAZA,P3 CIRCLE,LG-15, Jaypee Greens Rd, in front of NARMADA GATE, Swarn Nagari, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4489485,
+                    "lng": 77.51949669999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45025807989272,
+                        "lng": 77.52079437989272
+                    },
+                    "southwest": {
+                        "lat": 28.44755842010728,
+                        "lng": 77.51809472010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr. Amit Child Care Clinic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113099982358029224465\">1neclick Online Pvt Ltd</a>"
+                    ],
+                    "photo_reference": "Aap_uED5n7LeRy7S5p7hR3ZjybWnEiioDcryVZu28iWmW19Yi3pvkFPoeIjPb8xE0DjZYTo_X8cRZBVkO07Cq1EQrJk64dVXLPXs1J3RCifVuFHxpSfNpaBkTy2CbhHH_8EKSETuFtTmRUxTMJcDMSU_8aGaKygP4bD5Y72bKsLNUyfR0hl7",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJU1n7vDPADDkRJX7WeRgQEcI",
+            "plus_code": {
+                "compound_code": "CGX9+HQ Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCGX9+HQ"
+            },
+            "rating": 5,
+            "reference": "ChIJU1n7vDPADDkRJX7WeRgQEcI",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "D-13, Sector P3, Block D (, near Water Tank, Phi III, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4781159,
+                    "lng": 77.5183561
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47947842989272,
+                        "lng": 77.51972752989273
+                    },
+                    "southwest": {
+                        "lat": 28.47677877010728,
+                        "lng": 77.51702787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Dhiraj Ahlawat",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2942,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102797128579967527517\">rajesh kumar</a>"
+                    ],
+                    "photo_reference": "Aap_uEA2wBb48k8DbuKwD-tlofSVmJiBHTsy7aawgEW9E1bSRMVKBN6lvq58jp_oKmJCcj-OkbvG-D58Z5d7yhdig5CyV5EU40ONLzHNRmHmkSTXTAk1PinQRCm4kgPgOD0a6-oTm6WkkgKTuaD5k1X3VTWbPIFAwe8UPkmLA8erJb6mjRSh",
+                    "width": 2495
+                }
+            ],
+            "place_id": "ChIJv846yIfqDDkRjCviK0TKKJM",
+            "plus_code": {
+                "compound_code": "FGH9+68 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGH9+68"
+            },
+            "rating": 3.5,
+            "reference": "ChIJv846yIfqDDkRjCviK0TKKJM",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "201308, Pocket F, Block F, Sector Alpha II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4775786,
+                    "lng": 77.5173677
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47882762989272,
+                        "lng": 77.51879142989272
+                    },
+                    "southwest": {
+                        "lat": 28.47612797010728,
+                        "lng": 77.51609177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Neeraj Agarwal, Child Clinic, Paediatrician",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ9eLGgvTrDDkRNYnrmrNEaNk",
+            "rating": 0,
+            "reference": "ChIJ9eLGgvTrDDkRNYnrmrNEaNk",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FGH8+2WQ, Pocket F, Block F, Sector Alpha II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4554411,
+                    "lng": 77.510031
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45684337989272,
+                        "lng": 77.51145387989273
+                    },
+                    "southwest": {
+                        "lat": 28.45414372010728,
+                        "lng": 77.50875422010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Vivek S Shyam ( Best Paediatrician in Greater Noida)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 421,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117922094760524902663\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDhFaaEAa_dLp0BXQQRVpGNNcmpeVNOV3qK4VJlcxL3PK5k2gMu7ZQnqkzuVWeDPVU52QZWtrk8yFCe28LootG2eTD-BjQZ4HqlF-Eq84P6AGztxpconK8DKSESNzxCRQ6H5Jr8AJZ4U7_d4c2sW_IIJkmD0Ha5eYvs-at1qAdLQy1a",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJT94eG5TBDDkRtfRJgyUaGj8",
+            "plus_code": {
+                "compound_code": "FG46+52 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG46+52"
+            },
+            "rating": 5,
+            "reference": "ChIJT94eG5TBDDkRtfRJgyUaGj8",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "Plot No 9A pocket, Prakash Hospital, P2, Sector Omega 1, Builder Area, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4778621,
+                    "lng": 77.52222019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47917257989272,
+                        "lng": 77.52359917989273
+                    },
+                    "southwest": {
+                        "lat": 28.47647292010728,
+                        "lng": 77.52089952010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "CLINIC",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3999,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113044622072017785714\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECWXQ-AZiySzXPzf9FhvJwRy2sO9CxN8CGId8ipad0b4OPMIm-ZjyhFuIJ9Wcj-9HtECP0sTMIzFwoAJCcKo-BaKLpnJ4NjzAZnqnwjd0SokPU65ER1b6V1wtwqyeIU4L7kD9gW_N2ngSjmrCte-5XA-WvPxv07W7_VZjUfQqg0XPkj",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJyfZA1oXqDDkRIaOeGH9j07I",
+            "plus_code": {
+                "compound_code": "FGHC+4V Brahmpur Rajraula Urf Nawada, Uttar Pradesh",
+                "global_code": "7JWVFGHC+4V"
+            },
+            "rating": 4.4,
+            "reference": "ChIJyfZA1oXqDDkRIaOeGH9j07I",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "I - 52 ,ALFA - 2, DR N.K.JHA & DR MAMTA JHA CLINIC Near Gate No 8, Behind OMAXE - ITC GREATER NOIDA, DELHI"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4798,
+                    "lng": 77.5060386
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48120027989273,
+                        "lng": 77.50722662989271
+                    },
+                    "southwest": {
+                        "lat": 28.47850062010728,
+                        "lng": 77.50452697010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr. Niitu Vashisht (Advaita Child Clinic)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109767010007694974822\">Ravindra Kapoor</a>"
+                    ],
+                    "photo_reference": "Aap_uEBeZ3gX6Wnn075zinVkQmOjd4Lclrt3LM3fflXZeLIwz9yOpiDRgwsKxlYxE8drpcNU7GFAHLkXlwT-KoksjtnECzaI4JLCvAG6al-5pxitvF_xcMpdnaHAY0jMc0xKHNf2LLtT_aEbFAIjylnsLBu9fUmDMVXWxSq8VjgOAIO-Xz8B",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJsYPYaITrDDkR_iankNSh3P4",
+            "plus_code": {
+                "compound_code": "FGH4+WC Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGH4+WC"
+            },
+            "rating": 5,
+            "reference": "ChIJsYPYaITrDDkR_iankNSh3P4",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "S28A, 2nd Floor, Beta Plaza, Sector, Beta I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4776229,
+                    "lng": 77.5172436
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47903987989272,
+                        "lng": 77.51854027989272
+                    },
+                    "southwest": {
+                        "lat": 28.47634022010728,
+                        "lng": 77.51584062010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr. Neeraj Agrawal | Child Clinic | Pediatrician",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115163125592568270482\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBJxwP3zf9lCwALLMuXGGQi3z038jgK_M19Lm63E0gAvX46iJ2ksgMA3tTfkxdn7JK6oEYC9d9_YVjJRt5mnj0LLcdcOhOegiAYyx8wKN4Qg8IqgBApxgWj9MotJ2Ck1z5ZphprNsZAqFOzLkD82c3Z7Xm88YSO9HS4Hs2O2rWToLY",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJNVzkwk7rDDkRGjvn3tgyylI",
+            "plus_code": {
+                "compound_code": "FGH8+2V Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGH8+2V"
+            },
+            "rating": 5,
+            "reference": "ChIJNVzkwk7rDDkRGjvn3tgyylI",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Ground Floor - Shop no. 35, K.B. Complex, Sector Alpha II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4470121,
+                    "lng": 77.5234457
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.44833057989272,
+                        "lng": 77.52483477989271
+                    },
+                    "southwest": {
+                        "lat": 28.44563092010728,
+                        "lng": 77.52213512010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Meenu Child Clinic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1008,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116043276692816454641\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDxQFj74Wvp42oxWLnfUGJlNdzwbVD8n93L1fZ5aLrNCsVgT-urdXYkYaV67Ril4xgcpOi-8tvo-vy13x3RKCdsWlFlacPHO8nKlMi8aX_c25UUtsnAxrYG4mSA83-2SAi6gTIzfAjifLywj-dK-VDOdp-KzLpKABLXaByqQrMExVuH",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ4Vn9JDvBDDkRYvvuUNP8tMs",
+            "plus_code": {
+                "compound_code": "CGWF+R9 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCGWF+R9"
+            },
+            "rating": 3,
+            "reference": "ChIJ4Vn9JDvBDDkRYvvuUNP8tMs",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "D-375, Sector-P3, near Kendriya Vidyalaya, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4782532,
+                    "lng": 77.5610463
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47958237989272,
+                        "lng": 77.56242462989273
+                    },
+                    "southwest": {
+                        "lat": 28.47688272010728,
+                        "lng": 77.55972497010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Samiksha Mehra (Palms Kids Clinic and Vaccination center)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109384065183774247235\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDP4V972hFUUzKOS8Zb_OvqRDXOZCsrNYO2hKKu9Z3ykZUvmnxYT_pg5rZpc1fP8WOx9X2XD2HCsjHB1nOYyLkZSjYH5SdCuTF57_mEGWHG8mIaWlOCmc7JD27hdgFi3qiRPGJ0grEX2s_JhUzDPjAP8oCuv2HR_QizsQWRX_pIu9Bg",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJOebcr0brDDkRjiUNuLJObUw",
+            "plus_code": {
+                "compound_code": "FHH6+8C Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFHH6+8C"
+            },
+            "rating": 4.4,
+            "reference": "ChIJOebcr0brDDkRjiUNuLJObUw",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Shopping Complex, Omaxe Palm Greens, 004, First Floor, Sector MU, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4860792,
+                    "lng": 77.5129743
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48751422989272,
+                        "lng": 77.51455177989271
+                    },
+                    "southwest": {
+                        "lat": 28.48481457010728,
+                        "lng": 77.51185212010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Beta Clinic (Dr Dilip Kumar)",
+            "photos": [
+                {
+                    "height": 808,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116139112504187224553\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECAzaAdLufchOU1zWaDrlKYfeD2oHgPdKtJvArNP4iYgM-4ibENSaKbw-ZFNcGVFF6IEOuUFEY87YfNBaRNsWb9cgLnDAxu3pmiXphzzogAXV_nqyM-zuKjdk1ANiIuy2sc8I0zygon1pTTn9Cjnag94dBbtEEGcNUgs8oMMeSs-3WC",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJbdA8CXXrDDkRbFREth1pqec",
+            "plus_code": {
+                "compound_code": "FGP7+C5 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGP7+C5"
+            },
+            "rating": 4.9,
+            "reference": "ChIJbdA8CXXrDDkRbFREth1pqec",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34,
+            "vicinity": "H-181 Thana Road, Beta 2 Rd, near H block canteen, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4992986,
+                    "lng": 77.51848919999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.50063587989272,
+                        "lng": 77.51981672989272
+                    },
+                    "southwest": {
+                        "lat": 28.49793622010728,
+                        "lng": 77.51711707010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Pradeep Singh New Born & Child Care (Astitva clinic)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1732,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114545473836046845399\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECan2ottg8YNaKKtn8z3n1d1uByJRzsGMJVx0MAmNbg2yI3ae-VMhzRknF99GhGwQKECBVWGmliEzI80fXCLAYTHwh4M5mwTF7VCAuc5ssbLsfGlG7GwfO23EQVqRuQ1ICVKap4hqnqgRGK1fr-nHYkuNTlBZxGLCgvHKtzBCtY17sD",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJ7Th0zvLrDDkRmbqxH7sGXwo",
+            "plus_code": {
+                "compound_code": "FGX9+P9 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGX9+P9"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ7Th0zvLrDDkRmbqxH7sGXwo",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33,
+            "vicinity": "Shop no.11, Ace Platinum Society Market, Sector, Zeta I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4495295,
+                    "lng": 77.5189609
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45082942989272,
+                        "lng": 77.52024607989273
+                    },
+                    "southwest": {
+                        "lat": 28.44812977010728,
+                        "lng": 77.51754642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Blessings Clinic & Vaccination Centre",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJgzmzgKXBDDkRLfTKNa2nmW4",
+            "plus_code": {
+                "compound_code": "CGX9+RH Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCGX9+RH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJgzmzgKXBDDkRLfTKNa2nmW4",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "D-2, Block D, Phi III, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5168839,
+                    "lng": 77.48738349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51824842989272,
+                        "lng": 77.48873692989272
+                    },
+                    "southwest": {
+                        "lat": 28.51554877010728,
+                        "lng": 77.48603727010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Arvind Devdhar",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104252118803565070392\">sanjay kumar</a>"
+                    ],
+                    "photo_reference": "Aap_uECtlAErgNpKnPmTIQWqs6T0tdUVJZRPt97AYggtm7tsvjX1sp1LXmqfhlhu5WmvGrL6Eq7pAM7dzcQWBx9nsXbI9KfuUdW02uijVmGJH5tyIUNHhATut2wWOHbuKewiZEXY2y10QNhEk18ZkZzLJrzDVorsGJoeRxut0SI67g8j3jo",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJD6PuIULrDDkRrMaVcXuSNgs",
+            "plus_code": {
+                "compound_code": "GF8P+QX Noida, Uttar Pradesh",
+                "global_code": "7JWVGF8P+QX"
+            },
+            "rating": 5,
+            "reference": "ChIJD6PuIULrDDkRrMaVcXuSNgs",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Devdhar Hospital lakhnavli road, Surajpur, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4684036,
+                    "lng": 77.5361203
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46969537989272,
+                        "lng": 77.53739622989272
+                    },
+                    "southwest": {
+                        "lat": 28.46699572010727,
+                        "lng": 77.53469657010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Acropolis Medical Centre",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110600865087652102298\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECTtpv1NLLiGp_5tt0RitVlV6m9QoxZLIE3-6wwfPo_ptMtG96BgWR1KIg-xo8SiSWI8Kh9OPWWbtRnQvbSFDxWRU-nxCI0qttFA5iYV7fdf0rTtOHWbALBAl1m8rsIK0vtAgD8zH2cKkFdwknOvBBXzr91gigcnL5ivrxgrko9YVtw",
+                    "width": 2176
+                }
+            ],
+            "place_id": "ChIJLfe5YSDADDkRwv0NUpvvhpM",
+            "plus_code": {
+                "compound_code": "FG9P+9C Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG9P+9C"
+            },
+            "rating": 4.1,
+            "reference": "ChIJLfe5YSDADDkRwv0NUpvvhpM",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "201310, Eldeco Green Meadows, Pi I & II, Pi I & Ii, Greater Noida"
+        }
+    ],
+    "status": "OK"
+}
