@@ -1,0 +1,961 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEDo55sxouttvbD4shzEpIx7_x87dAx8Lj2poT_pcXFvvxeWtPjxsvTuRFlR1uFvdbMuDateLNGY2atmfQq1MpD1m7ySTincvGBBRVHOYIldvQATwyPn9S8SqJpstYaBXTYV3t_tobHotLFhhB9RNXDFOkujEG1al0pbjif59guooZOz_85VA90kltTXSB1CqvBaxIlo0sFuB-rNGgVC410W66VJt-_cnGpWFSLKi57ghxM6E0tycHQO2T6pH2Nu4-Jclj-t396cKh5cQKMxH1Rx1ShtfHH7DZIuf3o-Yv5l0ORtr3rm49zqkRVaWB37tJ3_9PI_bXToRFA0c9johnEKkWzBvJwmf2afEt5yuBynEq88u89WuT88roueiKZoISk_M5eRfgbTHBg40TAPWxjKUEWpcR4yQAOAZam89uHT_GNQTL55udfAo53JSiN4FX3QcKHJ0_4",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4882368,
+                    "lng": 77.506318
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48955872989272,
+                        "lng": 77.50764637989272
+                    },
+                    "southwest": {
+                        "lat": 28.48685907010728,
+                        "lng": 77.50494672010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Lal PathLabs",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117281613662900406272\">The Digital Coder</a>"
+                    ],
+                    "photo_reference": "Aap_uED4le9NVKOO6PZ5LpnP3xX0MkGj71dH83n1TClqyvsMLb38P9zrpWvAB8_FsmOOwHyIzG4lmsau7WanCm1mkXryg3XQLIBTcQY6X9SsN494BMYOph1_IzoguGFM3Cvqpb8CLCz6ndWkH0TZjXfaqMH_Tsh_m553Nqznwie-qA3gJCmY",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJ5UVemnDqDDkRktNsx5jQkBQ",
+            "plus_code": {
+                "compound_code": "FGQ4+7G Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGQ4+7G"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ5UVemnDqDDkRktNsx5jQkBQ",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Ggs-51, Bagun Villa Plaza, near Bank Of Baroda, Gamma II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5206969,
+                    "lng": 77.5034546
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52201957989272,
+                        "lng": 77.50477577989273
+                    },
+                    "southwest": {
+                        "lat": 28.51931992010728,
+                        "lng": 77.50207612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "KUMAR PATHOLOGY LAB",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112332240683988668598\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAMo8WIBgFx9ph2mchTgBrBsgz777s1sqiSH5-qU4rnuTUm6YbCgQYU_1KwMCXekKKlDhwQjvN1uEa4HWRAVyTgphv4U6O6Xi7IzVX97vQDCpqRjeKF-6PHAVECDZ-IZ-4F64cJnz1HAcnDEGz6DHhkbsaEtOm17X-6LBTxZ9ZSRJKg",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJoXDdFK7rDDkRWRD0FSSLuv4",
+            "plus_code": {
+                "compound_code": "GGC3+79 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGGC3+79"
+            },
+            "rating": 2,
+            "reference": "ChIJoXDdFK7rDDkRWRD0FSSLuv4",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "SUNDAY MARKET, NEAR DADRI ROAD, DEVLA, G.B.NAGAR, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5217628,
+                    "lng": 77.5048874
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52311957989272,
+                        "lng": 77.50624617989273
+                    },
+                    "southwest": {
+                        "lat": 28.52041992010728,
+                        "lng": 77.50354652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "AASHIRWAD PATHOLOGY LAB",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112371452351375473465\">suny khan</a>"
+                    ],
+                    "photo_reference": "Aap_uED74nQJz1WxxBZG0XeRxMoPOMxIG-PKog6ogBLPumuurcqLtmDx_xrTijNS5ba1XeEGQxu8FT-YDJWWsTK6dwZ76Md6pNpVDiaMvfLLs_pOnmt80ARJ466CGaQr-D-m9BwR1EpsLAG0uz4Lh4FUDmlOHlZpi5BEbyueBF6Ct_31mG0",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJj9KrCwjrDDkRzOfUFe1EmRM",
+            "plus_code": {
+                "compound_code": "GGC3+PX Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGGC3+PX"
+            },
+            "rating": 5,
+            "reference": "ChIJj9KrCwjrDDkRzOfUFe1EmRM",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Sunday market, Devla, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.507331,
+                    "lng": 77.4714142
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.50867302989272,
+                        "lng": 77.47274567989271
+                    },
+                    "southwest": {
+                        "lat": 28.50597337010727,
+                        "lng": 77.47004602010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pathology lab",
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100926126954481985630\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECRIcWJvTgQT2B91eXdJMVB7-_UX2Lfo4mj_PNxw0Jb7fUaUjRsPY4tCtMmySVWcYJK7zJ7bPxrHqhLZgS7MrWUy2e_T7W-AXGyW58MTk1ntsPNWJsjuulfSpyAzYpU0aonw6FNomnXz8gxgLTTPBJeIDhKHQYxbcdjQE1BrSwo9X7Y",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJa1scCNXrDDkR5WRv5yrE0uE",
+            "plus_code": {
+                "compound_code": "GF4C+WH Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGF4C+WH"
+            },
+            "rating": 1,
+            "reference": "ChIJa1scCNXrDDkR5WRv5yrE0uE",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "2nd St, Sector Alpha II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4683051,
+                    "lng": 77.5390693
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46965487989272,
+                        "lng": 77.54040857989273
+                    },
+                    "southwest": {
+                        "lat": 28.46695522010728,
+                        "lng": 77.53770892010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Lal Pathology",
+            "place_id": "ChIJTz8mqLfBDDkRwF0Eok5yla4",
+            "plus_code": {
+                "compound_code": "FG9Q+8J Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG9Q+8J"
+            },
+            "rating": 0,
+            "reference": "ChIJTz8mqLfBDDkRwF0Eok5yla4",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "B-291 Pocket B Gulmohar Estates, Sector Pi-1, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4684016,
+                    "lng": 77.5361107
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46969592989273,
+                        "lng": 77.53738987989273
+                    },
+                    "southwest": {
+                        "lat": 28.46699627010728,
+                        "lng": 77.53469022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Get Well Path Lab (Full Body Checkup/Thyroid/Sugar/Seman Analysis/BHCG /RTPCR Test Noida /Greater Noida/",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113502916264447049172\">Get Well Path Lab</a>"
+                    ],
+                    "photo_reference": "Aap_uEA61PgejS_yl1KYPwhl6GHnDI2R68WYW_cgwASNEZ5uO-2ju9iUCXKfi8dn2HqrX1LygGr56GOkWrV31c2hE3kGmfOQDJJkW5-3JVSqz3g5MQLOWDTq0UtsuajWeEqnO0Uec_2_ZEFBhVGuRYL5tAqrqEdb4yAyNcQUFC3F1HDRWoWt",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJcaH2iiDADDkRW4p9141mXy8",
+            "plus_code": {
+                "compound_code": "FG9P+9C Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG9P+9C"
+            },
+            "rating": 4.9,
+            "reference": "ChIJcaH2iiDADDkRW4p9141mXy8",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 86,
+            "vicinity": "Shop No. LGF-05, Eldeco Arcadia Shopping Complex Sec-P1, near Eldeco Green Medows, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4733552,
+                    "lng": 77.5041262
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47472962989273,
+                        "lng": 77.50551737989272
+                    },
+                    "southwest": {
+                        "lat": 28.47202997010728,
+                        "lng": 77.50281772010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "LIFE CARE PATHOLOGY CENTER",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100379499487400301778\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDnzMisEZTW41OazfCQLueNwYNDB0JrWl2-kBBqhPvaT7cTfnCbNw7J50OWUJ4mJ0zr-w9JsDU-DCG3--T05c1_93ijeucL_k4tMCywIGfd6ENcua6WZabTjFizFCmFMp_a9J8UBJQI20gmf7UTv1FyFNO2oXQo_Rh5fa8D_CpNijvK",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJDx5m6ETrDDkRYAJ5r7EzHss",
+            "plus_code": {
+                "compound_code": "FGF3+8M Noida, Uttar Pradesh",
+                "global_code": "7JWVFGF3+8M"
+            },
+            "rating": 4.7,
+            "reference": "ChIJDx5m6ETrDDkRYAJ5r7EzHss",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "near kailash hospital, Knowledge Park I, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4743879,
+                    "lng": 77.50399039999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47571917989272,
+                        "lng": 77.50530862989271
+                    },
+                    "southwest": {
+                        "lat": 28.47301952010728,
+                        "lng": 77.50260897010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Path Experts Lab",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 652,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104857565440635255105\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBg1PkNSlOf4Qe8V_kuE_jPWHS_mzmWc07_w5uOqJuXPIsZV6XToAAtikLNbvk7eMbHsr3HRavPGXoSzPS8yvlPCROdBBvIH43y6920lMxBDw9L_59uYJPlA9n4bKBCGazbx_wyuh42W7JYcm1A-2Qdq5xTwFqSi4psIWWKfB4Flbo8",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJra_7n3zrDDkREuPYq03GAbI",
+            "plus_code": {
+                "compound_code": "FGF3+QH Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGF3+QH"
+            },
+            "rating": 5,
+            "reference": "ChIJra_7n3zrDDkREuPYq03GAbI",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No.UG 25 Aplha Plaza, Sector Aplha 1st, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4785408,
+                    "lng": 77.5049008
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47989062989272,
+                        "lng": 77.50625062989273
+                    },
+                    "southwest": {
+                        "lat": 28.47719097010727,
+                        "lng": 77.50355097010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "WeCare Pathlab",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 477,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103767515086403276967\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBS-vH9dZe2f0tPlzOr1kff4383hPeqoYGp0XJROFkN1FAOdv75l1c0mXLtpdrlz90K3tAZj1bDcgyUsCaK_MKIQUTFYZ1h5xMylJQrtrFJiqsr8tF8SyiBSUlw95WKVeQIvCwLWbEfpNamcBj6VLDxncZeMkVkDyhibQq4uyV5d_kE",
+                    "width": 733
+                }
+            ],
+            "place_id": "ChIJT4SQcT_pDDkRw-xJZP0kn8w",
+            "plus_code": {
+                "compound_code": "FGH3+CX Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGH3+CX"
+            },
+            "rating": 5,
+            "reference": "ChIJT4SQcT_pDDkRw-xJZP0kn8w",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Shop No \u2013 25, Beta Plaza, Beta-1st, Landmark, near JR Hospital, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4784989,
+                    "lng": 77.5048549
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47981377989272,
+                        "lng": 77.50633742989272
+                    },
+                    "southwest": {
+                        "lat": 28.47711412010728,
+                        "lng": 77.50363777010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Biosure labs",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4192,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117370465827277282147\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAV87P2YZzuoG57eEiPAyWEphiLh7q0rxnUP8Cx0r09qnOkQo6ie2d17p5R7HSQRAHEhcMe4KSnHJrDJP1__y7zYdy6iJwWQpP3O2hT0alUHY9hOOwFS0PYuHvSLhUv3_O5wI09gdAeay01jtEvk8Su9jLrSlG1DctyRJpxoB_kzxw",
+                    "width": 1935
+                }
+            ],
+            "place_id": "ChIJ4aliMJ7rDDkR3bE2sIN0IMM",
+            "plus_code": {
+                "compound_code": "FGH3+9W Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGH3+9W"
+            },
+            "rating": 5,
+            "reference": "ChIJ4aliMJ7rDDkR3bE2sIN0IMM",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30,
+            "vicinity": "Shop no 52,49, beta plaza, Beta I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4613055,
+                    "lng": 77.5319694
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46278177989272,
+                        "lng": 77.53322677989271
+                    },
+                    "southwest": {
+                        "lat": 28.46008212010727,
+                        "lng": 77.53052712010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sharma Speech Therapy & Hearing Aids Clinic",
+            "place_id": "ChIJ95esGDzBDDkRXeOXKmfutY8",
+            "plus_code": {
+                "compound_code": "FG6J+GQ Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG6J+GQ"
+            },
+            "rating": 0,
+            "reference": "ChIJ95esGDzBDDkRXeOXKmfutY8",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Nh-22A Balaji Hospital Swarnagri, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4743879,
+                    "lng": 77.50399039999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47571917989272,
+                        "lng": 77.50530862989271
+                    },
+                    "southwest": {
+                        "lat": 28.47301952010728,
+                        "lng": 77.50260897010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Lal Path Lab",
+            "place_id": "ChIJp1FK6PjrDDkRXZzYyWdUi-Y",
+            "plus_code": {
+                "compound_code": "FGF3+QH Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGF3+QH"
+            },
+            "rating": 0,
+            "reference": "ChIJp1FK6PjrDDkRXZzYyWdUi-Y",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop no. 18, Sec- Delta 1st , Shivam Plaza, near Green City Hospital, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.527926,
+                    "lng": 77.48098399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52934982989272,
+                        "lng": 77.48240387989271
+                    },
+                    "southwest": {
+                        "lat": 28.52665017010728,
+                        "lng": 77.47970422010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Thyrocare Bimlesh",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5184,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111190324961436240586\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBat4yyswQ6PgnOEgv-1OE9YeKrpW58P-GQuG9_RhWrrTEwlXFqX0MJ1BoE4auSZ-kB3a78XiP29nc8s6C53haTxahfa3YyLd26wHZTPgMtvZkk0NCSjBvguvpHaHsVEsV1kl4NdNwnQWepapnmZY4UZJqkRfKJZRe_hCUYZmgVVsIt",
+                    "width": 3880
+                }
+            ],
+            "place_id": "ChIJHZ7zSOXrDDkRymlUgPZ5UaU",
+            "plus_code": {
+                "compound_code": "GFHJ+59 Surajpur, Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGFHJ+59"
+            },
+            "rating": 5,
+            "reference": "ChIJHZ7zSOXrDDkRymlUgPZ5UaU",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "68, 3rd Police Line, Surajpur, Grande"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4700319,
+                    "lng": 77.5100262
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47126872989272,
+                        "lng": 77.51146602989272
+                    },
+                    "southwest": {
+                        "lat": 28.46856907010728,
+                        "lng": 77.50876637010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Digiscan - Leader in Digital Pathology",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 596,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101893066917421468529\">Digiscan - Digital Pathology Slides</a>"
+                    ],
+                    "photo_reference": "Aap_uEDxAEhqDAvMPtsde1aGf-mI9xA_LyoeJPJKg5GjBm8IQufdSZ_gBT1ZVkX-2RHpOlj1GDfgyZrAfCbU-linfDOaBrzjro1prGNuF73Ic27rWQWqjSiPyCQNI19ZJqRd8YPkDwNFqAMlaH5CkS-bG9rGUrTOJPWIB3MwpbjdX-o_Dyjk",
+                    "width": 844
+                }
+            ],
+            "place_id": "ChIJl0VemnDqDDkR9Efdh0-cjio",
+            "plus_code": {
+                "compound_code": "FGC6+22 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGC6+22"
+            },
+            "rating": 5,
+            "reference": "ChIJl0VemnDqDDkR9Efdh0-cjio",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "6th Floor, Kasana Tower, 611, 1, Alpha-I Commercial Belt, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4808182,
+                    "lng": 77.50017940000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48210587989272,
+                        "lng": 77.50147527989273
+                    },
+                    "southwest": {
+                        "lat": 28.47940622010727,
+                        "lng": 77.49877562010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pathology Lab",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJAzTEkEvrDDkRczyOO5d1mTM",
+            "plus_code": {
+                "compound_code": "FGJ2+83 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGJ2+83"
+            },
+            "rating": 4,
+            "reference": "ChIJAzTEkEvrDDkRczyOO5d1mTM",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop no 60 gurbaksh plaza, Jagat Farm, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5207358,
+                    "lng": 77.5046198
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52208892989272,
+                        "lng": 77.50596642989272
+                    },
+                    "southwest": {
+                        "lat": 28.51938927010728,
+                        "lng": 77.50326677010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dev pathology Lab",
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101952812795386360327\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECaXQ0BhDGDCzlw4STaYFe7E-HuMYzZVzK3RDdLEUyFfrTD6Vrwe2_Oskf5MZXzaRM1JBtNsbmt4-Ty1WUUKeeIqfLergUgn8YJRDR8TAHJHB0ryG8dvP8v2W5yYf8q5B1EFh5YJvkNl3fkFM5D4ilue1RqTYlXKthc8bYpPZSCabJu",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJL7wq71rrDDkR3ZZksZsdmu0",
+            "plus_code": {
+                "compound_code": "GGC3+7R Devla, Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGGC3+7R"
+            },
+            "rating": 4.5,
+            "reference": "ChIJL7wq71rrDDkR3ZZksZsdmu0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Sunday market T. Point, Devla"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4506289,
+                    "lng": 77.5130296
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45198652989272,
+                        "lng": 77.51441487989271
+                    },
+                    "southwest": {
+                        "lat": 28.44928687010728,
+                        "lng": 77.51171522010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "MEDISYS PATHLABS CENTER",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJuQEPgczBDDkRq7usDFMi10w",
+            "plus_code": {
+                "compound_code": "FG27+76 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG27+76"
+            },
+            "rating": 3.7,
+            "reference": "ChIJuQEPgczBDDkRq7usDFMi10w",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "18, Senior Citizen Apartment, Phi II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4723714,
+                    "lng": 77.5140181
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47379287989272,
+                        "lng": 77.51544827989274
+                    },
+                    "southwest": {
+                        "lat": 28.47109322010727,
+                        "lng": 77.51274862010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "SRL DIagnostics greater noida",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116108153892887096432\">ADIL HUSSAIN</a>"
+                    ],
+                    "photo_reference": "Aap_uEBXSuXrPbbznnMe5zNNlJjpRVOWDSis0yeVrCkGlsQ3YlBnsRW5hZJxO9vKE0jUcdygjrw389MfBwmUritVLRqCv8HJdgkbfcKqvI9dKnf9dTYcibNmfbpOCzL05xJcwQ9iNguWanggEaGuW0n47MVYE1osA9SZ2yuxwh-qGma6dGwP",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJTWU69arrDDkRemKxyoVwuzg",
+            "plus_code": {
+                "compound_code": "FGC7+WJ Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGC7+WJ"
+            },
+            "rating": 4.6,
+            "reference": "ChIJTWU69arrDDkRemKxyoVwuzg",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Srl Ltd, Alpha-I Commercial Belt, Block E, Alpha I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4774281,
+                    "lng": 77.5173149
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47871972989272,
+                        "lng": 77.51870742989271
+                    },
+                    "southwest": {
+                        "lat": 28.47602007010727,
+                        "lng": 77.51600777010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Paradise Pathology Lab",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101352754891312674264\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECb765Qy7ZhSmT0vkV_VjcsEUnYKWjdsciDezEp5Ua3MD95-x2UGx9AGoBj_q3uVsCWdYkQezpJzrBioFB08CwR6gbgWGujocdbYccpApmeXR-JLFjtiXUoTy2kRXx5jcJ71XRayTeUhSed71QSo8Xfzt0gxZWub_aHilQJl5yNahgA",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJG6jQQv3rDDkR7LBuveuZ770",
+            "plus_code": {
+                "compound_code": "FGG8+XW Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGG8+XW"
+            },
+            "rating": 4,
+            "reference": "ChIJG6jQQv3rDDkR7LBuveuZ770",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Shop No. 44 GF, KB Complex, Sector Alpha II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4820604,
+                    "lng": 77.49945629999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48340212989272,
+                        "lng": 77.50079312989273
+                    },
+                    "southwest": {
+                        "lat": 28.48070247010728,
+                        "lng": 77.49809347010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Care And Cure Health Centre",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJMSicom7qDDkRFHNdfX6wwoE",
+            "plus_code": {
+                "compound_code": "FFJX+RQ Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFFJX+RQ"
+            },
+            "rating": 0,
+            "reference": "ChIJMSicom7qDDkRFHNdfX6wwoE",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.1, Opp Jagat Plaza Free Car Parking, Jagat Farm, Street 6, Block E, Chandila, Gamma 1, Greater Noida"
+        }
+    ],
+    "status": "OK"
+}

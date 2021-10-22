@@ -1,0 +1,434 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4517742,
+                    "lng": 77.5067254
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45310302989272,
+                        "lng": 77.50804577989271
+                    },
+                    "southwest": {
+                        "lat": 28.45040337010727,
+                        "lng": 77.50534612010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Rahul Punj",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJx59Rw2LqDDkR6EN1BABXT_A",
+            "plus_code": {
+                "compound_code": "FG24+PM Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG24+PM"
+            },
+            "rating": 3.9,
+            "reference": "ChIJx59Rw2LqDDkR6EN1BABXT_A",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "ANSAL GOLF LINK 1 AC14G NEAR CANARA BANK OMEGA 1, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5220394,
+                    "lng": 77.4816693
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52280972989272,
+                        "lng": 77.48341582989272
+                    },
+                    "southwest": {
+                        "lat": 28.52011007010728,
+                        "lng": 77.48071617010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Harish Nagpal , Family Physician, Health and Allied Insurance Claims Investig",
+            "place_id": "ChIJibLCrevqDDkR-qeWwPjxDLo",
+            "plus_code": {
+                "compound_code": "GFCJ+RM Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGFCJ+RM"
+            },
+            "rating": 0,
+            "reference": "ChIJibLCrevqDDkR-qeWwPjxDLo",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3rd street,H-145 , Gama-2, Backside of GNIDA Office,, Bogenvilea Market, near Evergreen Sweets, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4779433,
+                    "lng": 77.5172277
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47924907989272,
+                        "lng": 77.51861242989273
+                    },
+                    "southwest": {
+                        "lat": 28.47654942010728,
+                        "lng": 77.51591277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr. Mahkar Singh Khari - Cardiologist, General Physician, Diabetologist in Greater Noida",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101343085720121547560\">mohit kumar</a>"
+                    ],
+                    "photo_reference": "Aap_uEDnn6x4ChLuHZhCYEExvUzGagRtAVOxs86GSWBYvH7qx0AcffqxujMbr_4CefZwfJWuUYCCQod2E13TJPU4iQhOVDf2N4S2m9bw0NwUIkQ0tBV77YUqNxx8Z6Gsp23jCsqZCqvptfEBMqpiNWOS0NttlNcRKZCi6wClPvPeZhH2eRcu",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJqZQVZcTrDDkRNl4fPyIt4A8",
+            "plus_code": {
+                "compound_code": "FGH8+5V Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGH8+5V"
+            },
+            "rating": 4.7,
+            "reference": "ChIJqZQVZcTrDDkRNl4fPyIt4A8",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "G-18, Opp. KB Complex, Sector Alpha II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4739298,
+                    "lng": 77.5128338
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47527632989272,
+                        "lng": 77.51418612989272
+                    },
+                    "southwest": {
+                        "lat": 28.47257667010728,
+                        "lng": 77.51148647010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "DR SAHAY'S CLINIC(DR SANDEEP & DR ANJU)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1702,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111058311755789786547\">Dr Sandeep Sahay</a>"
+                    ],
+                    "photo_reference": "Aap_uEDqHvQBMgHw-Ru7OHkxljGkBE0tAv4wZ3wOiFQuKrpMpY2cnP01T8KfhTsTh2TEdK2GikqYmT12eBADrWf2oz0jOUT8s_cAq9dPSeN-9KpQtSa-BvPLe_4eGrD95dvyTM5KfFN5rIU5mljbUzLQfKGGDiBYES78KKCUTJmVDvZev9vo",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJVVVVlXvqDDkRlt8xAhAzRVY",
+            "plus_code": {
+                "compound_code": "FGF7+H4 Noida, Uttar Pradesh",
+                "global_code": "7JWVFGF7+H4"
+            },
+            "rating": 4.2,
+            "reference": "ChIJVVVVlXvqDDkRlt8xAhAzRVY",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37,
+            "vicinity": "E-37, Alpha 1, 1st Cross Avenue, Noida-Greater Noida Expy, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5146656,
+                    "lng": 77.53286609999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51597467989272,
+                        "lng": 77.53417787989271
+                    },
+                    "southwest": {
+                        "lat": 28.51327502010728,
+                        "lng": 77.53147822010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "PGF CLINIC",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100910260775971980749\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEByZIUG7S0ssw-PqMbG7kx-BL-b6Sz5e9-zwElVEV68V4M3Pdqb8M-CKmXsI16itiYGKMDx55gqhjA-Un0R4cmvW6Lgb4faJ_UtLWDspEdYUvUxg_3Hee8pv4NoROBBens1gT6oSn_Q07MEs1foqtG1aIDAoV5besfEi3Wnf5ngkCUC",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJiQ_hL4frDDkR8ZKn5ONbP8c",
+            "plus_code": {
+                "compound_code": "GG7M+V4 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGG7M+V4"
+            },
+            "rating": 5,
+            "reference": "ChIJiQ_hL4frDDkR8ZKn5ONbP8c",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 44,
+            "vicinity": "C 192 PARAMOUNT GOLF FORESTE SECTOR, Zeta I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5133031,
+                    "lng": 77.525016
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51464272989273,
+                        "lng": 77.5263515798927
+                    },
+                    "southwest": {
+                        "lat": 28.51194307010729,
+                        "lng": 77.52365192010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Shri Krishna Clinic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 651,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103312030418825294921\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDkyEYGwSZlNT1N52x6QpQwoUVhr2JB0S9HHP2HqwQr5NRRs6bBEw82bbQ9kraumsfrf1FgaLpkhmoclI7V5K0YHsTZvnLchlr-V1jZCfKtFr6R6ueYB0uaNPaetMUpO4F2bMs97NPMJMlBlHbHL9nTKJeS8lT68ysfDdR22mNqIZU5",
+                    "width": 1156
+                }
+            ],
+            "place_id": "ChIJq4GYVZDpDDkRwGxeAFjfH3U",
+            "plus_code": {
+                "compound_code": "GG7G+82 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGG7G+82"
+            },
+            "rating": 4.9,
+            "reference": "ChIJq4GYVZDpDDkRwGxeAFjfH3U",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "pharmacy",
+                "hospital",
+                "health",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 101,
+            "vicinity": "Restcom 364 3rd Floor ,Golf Mart , Pine Commercial Tower,paramount golf foreste, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4699871,
+                    "lng": 77.5094594
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47126497989272,
+                        "lng": 77.51093222989273
+                    },
+                    "southwest": {
+                        "lat": 28.46856532010728,
+                        "lng": 77.50823257010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Amrit Goel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJcyaz2tXBDDkR1j4hw1CgxII",
+            "plus_code": {
+                "compound_code": "FG95+XQ Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG95+XQ"
+            },
+            "rating": 3.5,
+            "reference": "ChIJcyaz2tXBDDkR1j4hw1CgxII",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37,
+            "vicinity": "AIMS Hospital, Tradex Tower, 1, near Pari Chowk, Alpha-I Commercial Belt, Block A, Alpha I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4685363,
+                    "lng": 77.53627999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46984642989272,
+                        "lng": 77.53769817989271
+                    },
+                    "southwest": {
+                        "lat": 28.46714677010728,
+                        "lng": 77.53499852010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr Dhiraj Singhal",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJZaiQYSDADDkRq9FyfIuzUZc",
+            "plus_code": {
+                "compound_code": "FG9P+CG Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG9P+CG"
+            },
+            "rating": 4.2,
+            "reference": "ChIJZaiQYSDADDkRq9FyfIuzUZc",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 68,
+            "vicinity": "201310, Eldeco Green Meadows, Pi I & II, Pi I & Ii, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.471824,
+                    "lng": 77.512631
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47328437989272,
+                        "lng": 77.51389937989272
+                    },
+                    "southwest": {
+                        "lat": 28.47058472010728,
+                        "lng": 77.51119972010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr. Dinesh Kumar Tyagi",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113099982358029224465\">1neclick Online Pvt Ltd</a>"
+                    ],
+                    "photo_reference": "Aap_uECKjzGvctZ7GOkLriAJTiaxHCMHkCdDympvMAmtCZLHOJiNqc5tXgX6E4Avx-TxAZ1CqIUfkLP8I7rwGCkrrP49GRSZYLVmNA2OTpn-z-ibQrkCzFgWK3L2IgsxuVe-5WbPqL_SKpy80hHtb-GQDgnUFWz-Mfe0yDiGQhaZx0eOsMGI",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJFSBhjn7qDDkRga3AF9j_pGo",
+            "plus_code": {
+                "compound_code": "FGC7+P3 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGC7+P3"
+            },
+            "rating": 3.3,
+            "reference": "ChIJFSBhjn7qDDkRga3AF9j_pGo",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "Shop No. GF-10, Harsha Mall, Alpha I, Greater Noida"
+        }
+    ],
+    "status": "OK"
+}
