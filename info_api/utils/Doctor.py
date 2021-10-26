@@ -1,6 +1,6 @@
 import requests, json, os 
 
-API_KEY = 'AIzaSyANPLrSPnimhfQ2RiPrwD-peO1nw_xYF9k' 
+API_KEY = 'Api Key' 
 
 LNG = 28.4843902 
 LAT = 77.5135804 
